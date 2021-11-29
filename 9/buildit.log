@@ -1,0 +1,3166 @@
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �&Ҽ�tdÌ��(Bs
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �&Ҽ�tdÌ��(Bs
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �&Ҽ�tdÌ��(Bs
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �&Ҽ�tdÌ��(Bs
+argv[5]: -PF
+argv[6]: -G- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �&Ҽ�tdÌ��(Bs
+argv[5]: -PF
+argv[6]: -A- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: ��l)��s�i�X:g
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: ��l)��s�i�X:g
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: ��l)��s�i�X:g
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: ��l)��s�i�X:g
+argv[5]: -PF
+argv[6]: -G- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: ��l)��s�i�X:g
+argv[5]: -PF
+argv[6]: -A- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �s�z�NUB�1
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �s�z�NUB�1
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �s�z�NUB�1
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �s�z�NUB�1
+argv[5]: -PF
+argv[6]: -G- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �s�z�NUB�1
+argv[5]: -PF
+argv[6]: -A- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �/]h[56�֦Ո܇�
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �/]h[56�֦Ո܇�
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �/]h[56�֦Ո܇�
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �/]h[56�֦Ո܇�
+argv[5]: -PF
+argv[6]: -G- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �/]h[56�֦Ո܇�
+argv[5]: -PF
+argv[6]: -A- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �/]h[56�֦Ո܇�
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �/]h[56�֦Ո܇�
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �/]h[56�֦Ո܇�
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �/]h[56�֦Ո܇�
+argv[5]: -PF
+argv[6]: -G- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: �/]h[56�֦Ո܇�
+argv[5]: -PF
+argv[6]: -A- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: .��񏏢��޳��=�
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: .��񏏢��޳��=�
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: .��񏏢��޳��=�
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: .��񏏢��޳��=�
+argv[5]: -PF
+argv[6]: -G- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: .��񏏢��޳��=�
+argv[5]: -PF
+argv[6]: -A- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: G){�]�
+argv[5]: f|t�¯f�۬�$?�r�|b�}�0E
+argv[6]: -PA
+argv[7]: -A
+argv[8]: -AN
+argv[9]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: G){�]�
+argv[5]: f|t�¯f�۬�$?�r�|b�}�0E
+argv[6]: -PA
+argv[7]: -G
+argv[8]: -AN
+argv[9]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 11
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: G){�]�
+argv[5]: f|t�¯f�۬�$?�r�|b�}�0E
+argv[6]: -PS
+argv[7]: -FN
+argv[8]: John
+argv[9]: -LN
+argv[10]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 8
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: G){�]�
+argv[5]: f|t�¯f�۬�$?�r�|b�}�0E
+argv[6]: -PF
+argv[7]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 8
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: G){�]�
+argv[5]: f|t�¯f�۬�$?�r�|b�}�0E
+argv[6]: -PF
+argv[7]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: /���?k%�&�#z{`���N<��4�e��?+
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: /���?k%�&�#z{`���N<��4�e��?+
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: /���?k%�&�#z{`���N<��4�e��?+
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: /���?k%�&�#z{`���N<��4�e��?+
+argv[5]: -PF
+argv[6]: -G- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: /���?k%�&�#z{`���N<��4�e��?+
+argv[5]: -PF
+argv[6]: -A- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 8g�I�pp��
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 8g�I�pp��
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 8g�I�pp��
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 8g�I�pp��
+argv[5]: -PF
+argv[6]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 8g�I�pp��
+argv[5]: -PF
+argv[6]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 462908904629089146290892462908934629089446290895462908964629089746290898462908994629089a4629089b4629089c4629089d4629089e4629089f462908a0462908a1462908a2462908a3462908a4462908a5462908a6462908a7462908a8462908a9462908aa462908ab462908ac462908ad462908ae462908af
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 462908904629089146290892462908934629089446290895462908964629089746290898462908994629089a4629089b4629089c4629089d4629089e4629089f462908a0462908a1462908a2462908a3462908a4462908a5462908a6462908a7462908a8462908a9462908aa462908ab462908ac462908ad462908ae462908af
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 462908904629089146290892462908934629089446290895462908964629089746290898462908994629089a4629089b4629089c4629089d4629089e4629089f462908a0462908a1462908a2462908a3462908a4462908a5462908a6462908a7462908a8462908a9462908aa462908ab462908ac462908ad462908ae462908af
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 462908904629089146290892462908934629089446290895462908964629089746290898462908994629089a4629089b4629089c4629089d4629089e4629089f462908a0462908a1462908a2462908a3462908a4462908a5462908a6462908a7462908a8462908a9462908aa462908ab462908ac462908ad462908ae462908af
+argv[5]: -PF
+argv[6]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 462908904629089146290892462908934629089446290895462908964629089746290898462908994629089a4629089b4629089c4629089d4629089e4629089f462908a0462908a1462908a2462908a3462908a4462908a5462908a6462908a7462908a8462908a9462908aa462908ab462908ac462908ad462908ae462908af
+argv[5]: -PF
+argv[6]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 12602177f33e8bfcb42dc9e94f8daeaa3ba51861bd3dbb6325eca3b660d48a0c
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 12602177f33e8bfcb42dc9e94f8daeaa3ba51861bd3dbb6325eca3b660d48a0c
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 12602177f33e8bfcb42dc9e94f8daeaa3ba51861bd3dbb6325eca3b660d48a0c
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 12602177f33e8bfcb42dc9e94f8daeaa3ba51861bd3dbb6325eca3b660d48a0c
+argv[5]: -PF
+argv[6]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 12602177f33e8bfcb42dc9e94f8daeaa3ba51861bd3dbb6325eca3b660d48a0c
+argv[5]: -PF
+argv[6]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: ed7d6df8c700af7f5db14dd0814ba9c6a7d1673d18f1535cdd081616a9015f1d
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: ed7d6df8c700af7f5db14dd0814ba9c6a7d1673d18f1535cdd081616a9015f1d
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: ed7d6df8c700af7f5db14dd0814ba9c6a7d1673d18f1535cdd081616a9015f1d
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: ed7d6df8c700af7f5db14dd0814ba9c6a7d1673d18f1535cdd081616a9015f1d
+argv[5]: -PF
+argv[6]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: ed7d6df8c700af7f5db14dd0814ba9c6a7d1673d18f1535cdd081616a9015f1d
+argv[5]: -PF
+argv[6]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 94ccffa47d5b7e16e6a39b34b74c96548c1d6a2457dd8b7df09571c5089c33d7
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 94ccffa47d5b7e16e6a39b34b74c96548c1d6a2457dd8b7df09571c5089c33d7
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 94ccffa47d5b7e16e6a39b34b74c96548c1d6a2457dd8b7df09571c5089c33d7
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 94ccffa47d5b7e16e6a39b34b74c96548c1d6a2457dd8b7df09571c5089c33d7
+argv[5]: -PF
+argv[6]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 94ccffa47d5b7e16e6a39b34b74c96548c1d6a2457dd8b7df09571c5089c33d7
+argv[5]: -PF
+argv[6]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: e5090517cae116ad7da6144b278e5b3a6c0e4c1b9fa3f0670199bcdacd50632f
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: e5090517cae116ad7da6144b278e5b3a6c0e4c1b9fa3f0670199bcdacd50632f
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: e5090517cae116ad7da6144b278e5b3a6c0e4c1b9fa3f0670199bcdacd50632f
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: e5090517cae116ad7da6144b278e5b3a6c0e4c1b9fa3f0670199bcdacd50632f
+argv[5]: -PF
+argv[6]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: e5090517cae116ad7da6144b278e5b3a6c0e4c1b9fa3f0670199bcdacd50632f
+argv[5]: -PF
+argv[6]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 66e37ce5bda913f728c5777a894d9b85e45c0c62764ce3e6352e30882e4b2a42
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 66e37ce5bda913f728c5777a894d9b85e45c0c62764ce3e6352e30882e4b2a42
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 66e37ce5bda913f728c5777a894d9b85e45c0c62764ce3e6352e30882e4b2a42
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 66e37ce5bda913f728c5777a894d9b85e45c0c62764ce3e6352e30882e4b2a42
+argv[5]: -PF
+argv[6]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: 66e37ce5bda913f728c5777a894d9b85e45c0c62764ce3e6352e30882e4b2a42
+argv[5]: -PF
+argv[6]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: a9cb17538f5e91c265c867e949f30be4196bb16b074e69a1cd02f22c37f90e92
+argv[5]: -PA
+argv[6]: -A
+argv[7]: -AN
+argv[8]: Midterm
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 9
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: a9cb17538f5e91c265c867e949f30be4196bb16b074e69a1cd02f22c37f90e92
+argv[5]: -PA
+argv[6]: -G
+argv[7]: -AN
+argv[8]: Final
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 10
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: a9cb17538f5e91c265c867e949f30be4196bb16b074e69a1cd02f22c37f90e92
+argv[5]: -PS
+argv[6]: -FN
+argv[7]: John
+argv[8]: -LN
+argv[9]: Smith
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: a9cb17538f5e91c265c867e949f30be4196bb16b074e69a1cd02f22c37f90e92
+argv[5]: -PF
+argv[6]: -G
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+
+Number Of Arguments Passed: 7
+----Following Are The Command Line Arguments Passed----
+argv[0]: gradebookdisplay
+argv[1]: -N
+argv[2]: mygradebook
+argv[3]: -K
+argv[4]: a9cb17538f5e91c265c867e949f30be4196bb16b074e69a1cd02f22c37f90e92
+argv[5]: -PF
+argv[6]: -A
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+Error parsing key- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+DONE parsing to a gradebook
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+DONE parsing to a gradebook
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+DONE parsing to a gradebook
+John, Smith
+(Midterm,95)
+(Final,180)
+(Project,48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+DONE parsing to a gradebook
+(Smith, John, 0.927500)
+(Tyler, Russell, 0.920000)
+(Mason, Ted, 0.850000)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+DONE parsing to a gradebook
+(Smith, John, 0.687500)
+(Mason, Ted, 0.600000)
+(Tyler, Russell, 0.675000)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+DONE parsing to a gradebook
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+DONE parsing to a gradebook
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+DONE parsing to a gradebook
+John, Smith
+(Midterm,95)
+(Final,180)
+(Project,48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+DONE parsing to a gradebook
+(Smith, John, 0.927500)
+(Tyler, Russell, 0.920000)
+(Mason, Ted, 0.850000)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+DONE parsing to a gradebook
+(Smith, John, 0.687500)
+(Mason, Ted, 0.600000)
+(Tyler, Russell, 0.675000)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+John, Smith
+(Midterm,95)
+(Final,180)
+(Project,48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+(Smith, John, 0.927500)
+(Tyler, Russell, 0.920000)
+(Mason, Ted, 0.850000)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+(Smith, John, 0.687500)
+(Mason, Ted, 0.600000)
+(Tyler, Russell, 0.675000)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+John, Smith
+(Midterm,95)
+(Final,180)
+(Project,48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+(Smith, John, 0.927500)
+(Tyler, Russell, 0.920000)
+(Mason, Ted, 0.850000)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+(Smith, John, 0.687500)
+(Mason, Ted, 0.600000)
+(Tyler, Russell, 0.675000)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+John, Smith
+(Midterm,95)
+(Final,180)
+(Project,48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+(Smith, John, 0.927500)
+(Tyler, Russell, 0.920000)
+(Mason, Ted, 0.850000)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+(Smith, John, 0.687500)
+(Mason, Ted, 0.600000)
+(Tyler, Russell, 0.675000)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+John, Smith
+(Midterm,95)
+(Final,180)
+(Project,48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+(Smith, John, 0.927500)
+(Tyler, Russell, 0.920000)
+(Mason, Ted, 0.850000)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+(Smith, John, 0.687500)
+(Mason, Ted, 0.600000)
+(Tyler, Russell, 0.675000)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+- The output of your program is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+John, Smith
+(Midterm,95)
+(Final,180)
+(Project,48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+(Smith, John, 0.927500)
+(Tyler, Russell, 0.920000)
+(Mason, Ted, 0.850000)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+(Smith, John, 0.687500)
+(Mason, Ted, 0.600000)
+(Tyler, Russell, 0.675000)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+John, Smith
+(Midterm,95)
+(Final,180)
+(Project,48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+(Smith, John, 0.927500)
+(Tyler, Russell, 0.920000)
+(Mason, Ted, 0.850000)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+(Smith, John, 0.687500)
+(Mason, Ted, 0.600000)
+(Tyler, Russell, 0.675000)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
+** Test 1 **
+- The output of your program is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+(Midterm,95)
+(Final,180)
+(Project,48)
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+(Smith, John, 0.687500)
+(Mason, Ted, 0.600000)
+(Tyler, Russell, 0.675000)
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
